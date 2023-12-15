@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\bin\Debug\sql connection uyg.exe.config
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\bin\Debug\sql connection uyg.exe
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\bin\Debug\sql connection uyg.pdb
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql connection uyg.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql_connection_uyg.Form1.resources
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql_connection_uyg.Properties.Resources.resources
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql connection uyg.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql connection uyg.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql connection uyg.exe
+C:\Users\hp\Desktop\sql connection uyg\sql connection uyg\obj\Debug\sql connection uyg.pdb
